@@ -4,3 +4,13 @@
 
 <img width="1220" height="344" alt="image" src="https://github.com/user-attachments/assets/427f537e-1630-4858-91c9-5db774f567da" />
 
+Optimisation 
+I create a query to aggregate the rows with  the orders with were returned (both ordered and returned) but My SQL run out of time and did not compete th eexecution of the query. 
+Let's optimize it
+
+<img width="584" height="499" alt="image" src="https://github.com/user-attachments/assets/1bb159ec-e85b-4bca-88e4-6d9bc26cf100" />
+From 30 secs to 0.25 sec 
+
+
+
+
